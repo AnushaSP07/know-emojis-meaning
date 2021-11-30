@@ -133,7 +133,7 @@ export default function App() {
       </div>
 
       <header className="hero-img">
-        <img className="hero" src="emo 3.jfif" alt="image of the emoji"/>
+        <img className="hero" src="emo 3.jfif" alt="emoji data"/>
       </header>
       <input
         id="emo-input"
