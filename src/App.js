@@ -134,7 +134,7 @@ export default function App() {
       </div>
 
       <header className="hero-img">
-        <img className="hero" src={pic} />
+        <img className="hero" src={pic}  alt="image"/>
       </header>
       <input
         id="emo-input"
