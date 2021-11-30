@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./style.css";
-import pic from "./emo 3.jfif";
 
 // data base
 var emojiDictionary = {
@@ -134,7 +133,7 @@ export default function App() {
       </div>
 
       <header className="hero-img">
-        <img className="hero" src={pic}  alt="image"/>
+        <img className="hero" src="emo 3.jfif" />
       </header>
       <input
         id="emo-input"
